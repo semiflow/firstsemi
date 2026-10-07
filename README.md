@@ -4,7 +4,7 @@
 
 ## 배포 전 수정
 - `index.html`의 `mailto:hello@example.com` → 실제 연락 이메일
-- 커스텀 도메인: 루트에 `CNAME` 파일 생성, 내용은 도메인 한 줄 (예: `flatai.kr`)
+- 커스텀 도메인: 루트에 `CNAME` 파일 생성, 내용은 도메인 한 줄 (현재 `everythingmine.com`)
 
 ## GitHub Pages 배포
 1. 저장소 Settings → Pages → Source: `Deploy from a branch`, 브랜치/폴더 `/ (root)` 선택
